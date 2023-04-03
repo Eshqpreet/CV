@@ -1,0 +1,191 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #F8F3D4;
+}
+
+/*Heading*/
+#heading {
+    background-color: #FFDE7D;
+    text-align: center;
+    padding: 5% 10%;
+    font-weight: bold;
+}
+
+.title {
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: bold;
+}
+
+.nav-link {
+    color: black;
+    font-weight: bold;
+    margin: auto;
+}
+
+.nav-link:hover {
+    color: white;
+    font-weight: bold;
+}
+
+/*Features*/
+.e1{
+    position: absolute;
+    top: 35%;
+}
+.e1-inner {
+    color: white;
+    position: relative;
+    left: 25%;
+    width: 50%;
+    font-weight: bolder;
+}
+
+.img {
+    height: 50%;
+    width: 60%;
+}
+
+#features {
+    text-align: center;
+}
+
+.text {
+    line-height: 1.2;
+    font-size: 1.2rem;
+}
+
+.img_1{
+    width: 75%;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+    height: 10%;
+    background-color: grey;
+}
+
+.carousel-control-next-icon:hover {
+    background-color: black;
+}
+
+.carousel-control-prev-icon:hover {
+    background-color: black;
+}
+
+/* Testimonials */
+
+#testimonials {
+    padding: 4% 10% 2% 10%;
+}
+
+.img2 {
+    height: 70%;
+    width: 60%;
+}
+
+.img3 {
+    height: 65%;
+    width: 50%;
+}
+
+.specials {
+    text-align: center;
+    margin: auto;
+    line-height: 1.2;
+    font-size: 1.2rem;
+}
+
+.Gift_cards {
+    text-align: center;
+    margin: auto;
+    line-height: 1.2;
+    font-size: 1.2rem;
+}
+
+.btin {
+    margin: 3%;
+    padding: 3% 3%;
+}
+
+.btin:hover {
+    color: whitesmoke;
+}
+
+/* Attraction */
+#attraction {
+    padding: 2% 4% 0% 4%;
+    margin: auto;
+    line-height: 1.2;
+    font-size: 1.2rem;
+}
+
+.inner-content {
+    text-align: center;
+    padding: 2% 2%;
+    position: relative;
+    left: 15%;
+    width: 65%;
+}
+
+.img4 {
+    position: relative;
+    right: 8%;
+    width: 117%;
+    height: 100%;
+}
+
+.menu {
+    text-align: center;
+}
+
+
+.img5 {
+    position: relative;
+    right: 8%;
+    top: 10%;
+    width: 120%;
+    height: 90%;
+}
+
+.inner-content-2 {
+    text-align: center;
+    margin: 5%;
+    padding: 2% 2%;
+    position: relative;
+    left: 15%;
+    width: 65%;
+}
+
+.h1,
+.h2 {
+    font-weight: bolder;
+    margin-bottom: 5%;
+    font-size: 2.5rem;
+}
+
+/*Footer*/
+#footer {
+    background-color: #FFDE7D;
+    padding: 2% 5%;
+    text-align: center;
+}
+
+a {
+    font-size: 1.1rem;
+    margin: 0.4%;
+    font-weight: bold;
+}
+
+.end-btn {
+    font-weight: bold;
+}
+
+a:hover {
+    color: white;
+}
+
+
+.logo {
+    margin: 0.5%;
+}
